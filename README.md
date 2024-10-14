@@ -17,7 +17,7 @@ This project focuses on front-end development with an emphasis on responsive des
 - **JavaScript**: Adding interactivity and dynamic behavior to the site.
 
 ## Demo
-You can see a live demo of the HealthCare WebPage here: [Live Demo](#) <!-- Add the link once deployed -->
+You can see a live demo of the HealthCare WebPage here: [Live Demo](https://aadisharma49.github.io/HealthCare-WebPage/) <!-- Add the link once deployed -->
 
 ## How It Works
 The **HealthCare-WebPage** provides a simple interface where users can:
